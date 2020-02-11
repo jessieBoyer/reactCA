@@ -1,8 +1,8 @@
 import Table from 'react-bootstrap/Table'
 import React from 'react';
-
+//https://www.youtube.com/watch?v=8dp7lW3DZEg
 export const ContentApproachTable = () => (
-    <Table striped bordered hover>
+    <Table className="col-6" striped bordered hover size="sm">
     <thead>
       <tr>
         <th>#</th>
