@@ -1,4 +1,6 @@
 .leaflet-container{
-    width: 100%;
+    display:flex;
+    flex-direction:row-reverse;
+    width:500px;
     height: 50vh;
 }
