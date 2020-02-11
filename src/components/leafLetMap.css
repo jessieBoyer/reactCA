@@ -1,6 +1,8 @@
 .leaflet-container{
-    display:flex;
-    flex-direction:row-reverse;
+    float:right;
     width:500px;
-    height: 50vh;
+    height:50vh;
+    right:10px;
+    border-style:solid;
 }
+
